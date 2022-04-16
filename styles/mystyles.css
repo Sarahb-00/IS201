@@ -1,0 +1,61 @@
+a:hover {
+    font-size: larger;
+}
+
+.link {
+    font-weight: bold;
+    color: rgb(92, 8, 8);
+    text-align: center;
+}
+
+.alink {
+    font-weight: bold;
+    color: rgb(92, 8, 8);
+    text-align: center;
+}
+
+.Fword {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.opacity {
+    opacity: 0.5;
+}
+
+.center {
+   margin: auto;
+   display: block;
+}
+
+.heading {
+    font-weight: bold;
+}
+
+.wtitle {
+    color: rgb(77, 30, 30);
+}
+
+.wlocation {
+    color: rgb(83, 73, 73);
+}
+.list {
+    font-size: 16px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.img {
+    object-fit: cover;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+
+.contact {
+    background-color:rgb(219, 214, 208);
+    padding: 10px;
+}
+.contacttext {
+    text-align:center;
+    color: rgb(110, 106, 101);
+}

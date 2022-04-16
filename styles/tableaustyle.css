@@ -1,0 +1,65 @@
+
+body {
+    background-color: rgb(38, 37, 41);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(247, 247, 247);
+    text-align: center;
+}
+
+h3 {
+    color:rgb(255, 255, 255);
+    text-align: center;
+
+}
+
+.common {
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 155px;
+    z-index: 2;
+    border-bottom: 1px;
+    font-weight:bold;
+}
+
+.mainbody {
+    top: 60px;
+    bottom: 64px;
+    left: 10px;
+    right: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+    position: relative;
+}
+
+.footer {
+    bottom: 5px;
+    height: 12px;
+    left: 5px;
+    right:5px;
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    position: relative;
+}
+
+a {
+    font-size: 12px;
+    text-decoration: none;
+}
+
+a:visited {
+    color: aliceblue;
+}
+
+a:hover {
+    font-size: 14px;
+}
